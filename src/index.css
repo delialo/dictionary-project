@@ -9,7 +9,7 @@ body {
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("media/mick-haupt-dictionary.jpg");
   background-size: cover;
-  background-color: blac;
+  background-color: black;
 }
 
 code {
