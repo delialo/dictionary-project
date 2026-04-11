@@ -5,7 +5,7 @@ export default function Results(props) {
   if (props.results) {
     return (
       <div className="Results">
-        <h3 className="m-5">{props.results.word}</h3>
+        <h1 className="m-5 fw-bold">{props.results.word}</h1>
         {props.results.meanings.map(function (meaning, index) {
           return (
             <div key={index}>
