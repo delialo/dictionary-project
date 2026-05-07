@@ -2,3 +2,14 @@
   font-family: "Coming Soon", cursive;
   color: white;
 }
+
+h3 {
+  font-size: 2.2rem;
+}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}

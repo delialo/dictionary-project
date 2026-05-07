@@ -28,6 +28,7 @@ function App() {
           >
             Netlify
           </a>
+          .
         </small>
       </footer>
     </div>
