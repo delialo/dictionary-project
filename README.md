@@ -17,6 +17,7 @@ The app pulls dictionary data from the SheCodes API and images from the Pexels A
 - HTML
 - CSS
 - JavaScript
+- React
 - SheCodes API
 - Pexels API
 
@@ -27,9 +28,9 @@ If I revisited it, I'd handle words without results better.
 
 ## Run it locally
 
-```
-bash
+```bash
 git clone https://github.com/delialo/dictionary-project.git
 cd dictionary-project
-open index.html in your browser
+npm install
+npm start
 ```
